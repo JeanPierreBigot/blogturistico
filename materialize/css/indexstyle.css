@@ -1,0 +1,122 @@
+/* CSS Document */
+/*COLOR DE FONDO DE LA PAGINA */
+body
+{
+background-color:rgb(169,204,227);
+}
+/*FORMATO DE EL BANER PRINCIPAL*/
+.barraprincipal
+{
+background-color:rgb(44,62,80);
+margin:20px 20px 20px 20px;
+width:95%;
+}
+/*FORMATO DEL BANER FINAL O DEL PIE DE PAGINA*/
+.barrapie
+{
+background-color:rgb(44,62,80);
+margin:20px 20px 20px 20px;
+width:95%;
+}
+/*FORMATO DE LOS MARGENES DE LA PAGINA*/
+.cuerpo
+{
+  width:95%;
+}
+/*COLOR DE LAS COLUMNAS*/
+.col1
+{
+  background-color:rgb(44,62,80);
+}
+.col2
+{
+  background-color:rgb(44,62,80);
+}
+.col3
+{
+  background-color:rgb(44,62,80);
+}
+/*FORMATO DE LOS BOTONES*/
+.lf
+{
+width:40px;
+  }
+.lgog
+{
+width:40px;
+  }
+.lin
+{
+width:40px;
+}
+.llk
+{
+width:40px;
+}
+.ltw
+{
+width:40px;
+}
+/*FORMATO DE TEXTO DE LAS IMAGEN*/
+.img1
+{
+  width:200px;
+}
+.img2
+{
+  width:200px;
+}
+.img3
+{
+  width:200px;
+}
+.img4
+{
+  width:200px;
+}
+.img5
+{
+  width:200px;
+}
+.imagencol1
+{
+width:50%;
+}
+.fotoautor
+{
+border-radius:50px;
+width:200px;
+}
+/*FORMATO DE TEXTO DE LAS LINEAS PARA INGRESAR COMENTARIOS*/
+.comentarios
+{
+width:50px;
+}
+.lineacom
+{
+border-radius:50px;
+max-height:100px;
+}
+.img1
+{
+width:300px;
+}
+.img2
+{
+width:300px;
+}
+.img3
+{
+width:300px;
+}
+.img4
+{
+width:300px;
+}
+.img5
+{
+width:300px;
+}
+.img6{
+width:300px;
+}
